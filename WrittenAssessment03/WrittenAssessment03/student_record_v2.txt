@@ -1,0 +1,35 @@
+Student ID: 11111
+First Name: Jezner
+Last Name: Leonidas
+Campus: Yoobee Campus
+Mode of Study: Full-Time
+Email: jezner_leonidas@yoobeecolleges.com
+
+Student ID: 22222
+First Name: Nico
+Last Name: Andersson
+Campus: Yoobee Campus
+Mode of Study: Full-Time
+Email: nico_andersson@yoobeecolleges.com
+
+Student ID: 33333
+First Name: Isak
+Last Name: Molving
+Campus: Yoobee Campus
+Mode of Study: Full-Time
+Email: isak_molving@yoobeecolleges.com
+
+Student ID: 44444
+First Name: Sagar
+Last Name: Dake
+Campus: Yoobee Campus
+Mode of Study: Full-Time
+Email: sagar_dake@yoobeecolleges.com
+
+Student ID: 55555
+First Name: Kevin
+Last Name: Dowd
+Campus: Yoobee Campus
+Mode of Study: Full-Time
+Email: kevin_dowd@yoobeecolleges.com
+
